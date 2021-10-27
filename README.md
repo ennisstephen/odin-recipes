@@ -1,4 +1,4 @@
-# I will demonstrate some basic HTML skills. Using the Oden Project.
+# I will demonstrate some basic HTML skills. Using the Odin Project.
 #
 #
 #
